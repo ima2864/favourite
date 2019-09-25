@@ -1,0 +1,22 @@
+person{
+display: block;
+margin-left: 10px;
+margin-bottom: 20px;
+background-color: tan;
+}
+name, gender
+{
+color: green;
+}
+first, middle, last
+{
+display: block;
+margin-left: 20px;
+color: blue;
+}
+wellknownas
+{
+text-transform: uppercase;
+font-weight: bold;
+color: yellow;
+}
